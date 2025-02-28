@@ -39,7 +39,7 @@ proxies:
     uuid: 396415b0-6f7d-4df3-9d50-1a3ff9115b1a
     alterId: 0
     cipher: auto
-    tls: false
+    tls: true
     skip-cert-verify: true
     servername: id2-ray.ipservers.xyz
     network: ws
